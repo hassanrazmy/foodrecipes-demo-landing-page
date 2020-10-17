@@ -2145,6 +2145,7 @@ a:focus {
     text-align: center;
 }
 .landing-page .tag-line {
+    display: block;
   margin-top: 26px;
   font-size: 24px;
   line-height: 1;
